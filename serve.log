@@ -1,0 +1,8 @@
+nohup: ignoring input
+ INFO  Accepting connections at http://localhost:3002
+ HTTP  7/15/2025 5:32:10 AM 127.0.0.1 GET /
+ HTTP  7/15/2025 5:32:10 AM 127.0.0.1 Returned 200 in 16 ms
+ HTTP  7/15/2025 5:35:56 AM 127.0.0.1 HEAD /static/js/main.0bc15e1d.js
+ HTTP  7/15/2025 5:35:56 AM 127.0.0.1 Returned 200 in 9 ms
+ HTTP  7/15/2025 5:36:09 AM 127.0.0.1 HEAD /static/css/main.0dcac543.css
+ HTTP  7/15/2025 5:36:09 AM 127.0.0.1 Returned 200 in 17 ms

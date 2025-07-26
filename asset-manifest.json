@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/freedom-currency/static/css/main.c2264260.css",
-    "main.js": "/freedom-currency/static/js/main.3df70527.js",
+    "main.css": "/freedom-currency/static/css/main.13780f81.css",
+    "main.js": "/freedom-currency/static/js/main.fd1aaf2f.js",
     "index.html": "/freedom-currency/index.html",
-    "main.c2264260.css.map": "/freedom-currency/static/css/main.c2264260.css.map",
-    "main.3df70527.js.map": "/freedom-currency/static/js/main.3df70527.js.map"
+    "main.13780f81.css.map": "/freedom-currency/static/css/main.13780f81.css.map",
+    "main.fd1aaf2f.js.map": "/freedom-currency/static/js/main.fd1aaf2f.js.map"
   },
   "entrypoints": [
-    "static/css/main.c2264260.css",
-    "static/js/main.3df70527.js"
+    "static/css/main.13780f81.css",
+    "static/js/main.fd1aaf2f.js"
   ]
 }
